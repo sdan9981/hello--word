@@ -1,2 +1,2 @@
 # hello--word
-just say hello
+just say hello,some simple code
